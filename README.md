@@ -1,7 +1,7 @@
 # johanna
 Visual User Interface for Things (Human User Interface for the Internet of Things)
 
-JOHANNA was inspired by TouchOSC from hexler.net, Backbone-OSC (https://github.com/kn0ll/backbone-osc) and Dashku (https://github.com/Anephenix/dashku) from Paul B. Jensen and commercial tools like Ativse or Siemens WinCC flexible.
+JOHANNA was inspired by TouchOSC from hexler.net, Backbone-OSC (https://github.com/kn0ll/backbone-osc) and Dashku (https://github.com/Anephenix/dashku) from Paul B. Jensen and commercial tools like Certec Ativse (http://www.atvise.com/) or Siemens WinCC flexible for industrial PLCs.
 
 Th idea is, 
 
