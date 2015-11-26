@@ -6,7 +6,7 @@ JOHANNA is a webbased tool for easy designing and using a visual user interface 
 
 JOHANNA was inspired by TouchOSC from hexler.net, Backbone-OSC (https://github.com/kn0ll/backbone-osc) and Dashku (https://github.com/Anephenix/dashku) from Paul B. Jensen and commercial tools like Certec Ativse (http://www.atvise.com/) or Siemens WinCC flexible for industrial PLCs.
 
-Th idea is, 
+The idea is, 
 
   * that you have a user interface (boards), which you can create by your self (using drag & drop of widgets), 
   * that you can create your own widgets (HTML5/CSS/Javascript/MAIER), 
@@ -20,7 +20,7 @@ Th idea is,
   * JOHANNA shoukd have an integrate version control system (like git).
 
 
-JOHANNA should run under node.js, so you will have not to install a configurator/board editor. Both configurator and user interface are running inside a webbrowser or could be WebApps.
+JOHANNA should run under meteor.s/node.js, so you will have not to install a configurator/board editor. Both configurator and user interface are running inside a webbrowser or could be WebApps.
 
 JOHANNA should work well with programming systems like nodeRED, noFlow or MAIER - Programmin Things.
 
